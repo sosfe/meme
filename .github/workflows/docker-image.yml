@@ -12,4 +12,4 @@ jobs:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: sosfe/meme
           username: '${{ secrets.sosfe }}'
-          password: '${{ secrets.WR&r@qy9&H8Y }}'
+          password: '${{ secrets.Qswfvz7FD6ig }}'
